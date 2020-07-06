@@ -1,8 +1,8 @@
 package com.example.rental.backend;
 
 /**
+ * Temat: Wypożyczalnia samochodów
  *
- Temat: Wypożyczalnia samochodów
  * @author Leszek Baca
  * @version 1.0
  */

@@ -5,12 +5,11 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 
 /**
+ * Temat: Wypożyczalnia samochodów
  *
- Temat: Wypożyczalnia samochodów
  * @author Leszek Baca
  * @version 1.0
  */
-
 
 
 @SpringBootApplication

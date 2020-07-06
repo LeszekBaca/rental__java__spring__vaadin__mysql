@@ -15,12 +15,11 @@ import java.util.List;
 
 
 /**
+ * Temat: Wypożyczalnia samochodów
  *
- Temat: Wypożyczalnia samochodów
  * @author Leszek Baca
  * @version 1.0
  */
-
 
 
 @Title("Rental car")
@@ -42,7 +41,6 @@ public class CarUI extends UI {
     private Button add;
     private Button delete;
     private Button save;
-
 
 
     @Autowired

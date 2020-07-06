@@ -8,10 +8,9 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 
 
-
 /**
+ * Temat: Wypożyczalnia samochodów
  *
- Temat: Wypożyczalnia samochodów
  * @author Leszek Baca
  * @version 1.0
  */
