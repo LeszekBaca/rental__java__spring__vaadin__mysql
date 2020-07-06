@@ -49,9 +49,7 @@ public class CarService {
     }
 
     public void delete(Car car) {
-        jdbcTemplate.update(
-                "DELETE FROM car WHERE id=?",
-                car.getId());
+        jdbcTemplate.update("DELETE FROM car WHERE id=?", car.getId());
 
 
     }
